@@ -5,6 +5,8 @@
       <mapping pattern=".flaskenv" type=".env file" />
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
+      <mapping ext="php" type="PHP" />
+      <removed_mapping ext="tag" approved="true" type="JSP" />
     </extensionMap>
   </component>
 </application>
