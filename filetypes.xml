@@ -6,6 +6,7 @@
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="req" type="Python" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
     </extensionMap>
   </component>
