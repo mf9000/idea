@@ -6,8 +6,8 @@
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
       <mapping pattern="req" type="Python" />
+      <mapping pattern="app" type="Python" />
       <removed_mapping ext="tag" approved="true" type="JSP" />
     </extensionMap>
   </component>
